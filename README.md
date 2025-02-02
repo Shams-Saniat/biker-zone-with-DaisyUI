@@ -41,7 +41,7 @@ Biker-Zone/
 ![Biker Zone Screenshot](./images/screenshots/homepage.png)
 
 ### Carousel Section
-![Carousel Screenshot](https://github.com/Shams-Saniat/biker-zone-with-DaisyUI/blob/main/images/slider/bike4.png)(https://github.com/Shams-Saniat/biker-zone-with-DaisyUI/blob/main/images/slider/bike3.png)(https://github.com/Shams-Saniat/biker-zone-with-DaisyUI/blob/main/images/slider/bike2.png)(https://github.com/Shams-Saniat/biker-zone-with-DaisyUI/blob/main/images/slider/bike1.png)
+![Carousel Screenshot](https://github.com/Shams-Saniat/biker-zone-with-DaisyUI/blob/main/images/slider/bike4.png)
 
 ## Live Demo
 You can check out the live demo [https://shams-saniat.github.io/biker-zone-with-DaisyUI/](#).
